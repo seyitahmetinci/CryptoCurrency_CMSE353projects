@@ -1,0 +1,15 @@
+To directly run the program user should extract folder ‘Application’ and run ‘app.bat’ file. 
+The program will launch in a windows console (cmd). 
+In order correctly for program to work the folder must contain MerkleTree.jar and app.bat files 
+
+After the launch the user will be confronted with 3 options. 
+User must enter the array inputs before building and printing the tree hash values. 
+
+User must follow steps as follows: 
+1.	Extract ‘Application’ folder from the RAR file
+2.	Run app.bat file
+3.	Press ‘1’
+4.	Enter the number of inputs
+5.	Enter value for each input array
+6.	Press ‘2’ to build and print a hash tree
+7.	Press ‘3’ to exit the program
